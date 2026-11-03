@@ -19,7 +19,7 @@ Custom frames and a propeller guard for RoBeeX drones. Download the SolidWorks f
 | :---: | :---: |
 | ![Open frame](frames/frame-01-open/images/view-01.png) | ![Circular frame](frames/frame-02-circular/images/view-01.png) |
 | Square frame V2 | Propeller guard |
-| ![Square frame V2](frames/frame-03-square-v2/images/view-01.png) | ![Propeller guard](propeller-guard/images/view-01.png) |
+| ![Square frame V2](frames/frame-03-square-v2/images/view-01.png) | ![Propeller guard](propeller-guard/images/view-05.png) |
 
 ### Working with the files
 
