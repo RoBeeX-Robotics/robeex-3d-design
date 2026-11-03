@@ -1,0 +1,8 @@
+# SolidWorks temporary lock and journal files
+~$*
+*.swj
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
