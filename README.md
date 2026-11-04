@@ -10,10 +10,10 @@ Custom frames and a propeller guard for RoBeeX drones. Download the SolidWorks f
 
 | Design | SolidWorks | STEP | Images |
 | --- | --- | --- | --- |
-| Open frame | [Source files](frames/frame-01-open/cad/) | [STEP](frames/frame-01-open/step/) | [Gallery](frames/frame-01-open/images/) |
-| Circular frame | [Parts and assembly](frames/frame-02-circular/cad/) | [Top and bottom](frames/frame-02-circular/step/) | [Gallery](frames/frame-02-circular/images/) |
-| Square frame, V2 | [Source files](frames/frame-03-square-v2/cad/) | [Top and bottom](frames/frame-03-square-v2/step/) | [Gallery](frames/frame-03-square-v2/images/) |
-| Propeller guard | [Source file](propeller-guard/cad/) | [STEP](propeller-guard/step/) | [Gallery](propeller-guard/images/) |
+| [Open frame](frames/frame-01-open/) | [Source files](frames/frame-01-open/cad/) | [STEP](frames/frame-01-open/step/) | [Gallery](frames/frame-01-open/images/) |
+| [Circular frame](frames/frame-02-circular/) | [Parts and assembly](frames/frame-02-circular/cad/) | [Top and bottom](frames/frame-02-circular/step/) | [Gallery](frames/frame-02-circular/images/) |
+| [Square frame, V2](frames/frame-03-square-v2/) | [Source files](frames/frame-03-square-v2/cad/) | [Top and bottom](frames/frame-03-square-v2/step/) | [Gallery](frames/frame-03-square-v2/images/) |
+| [Propeller guard](propeller-guard/) | [Source file](propeller-guard/cad/) | [STEP](propeller-guard/step/) | [Gallery](propeller-guard/images/) |
 
 | Open frame | Circular frame |
 | :---: | :---: |
